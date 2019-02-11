@@ -46,3 +46,7 @@ if a > b:
 
 
 - [x] Berikut screenshot ***output*** program 3 buah bilangan ***maks*** /nilai terbesar dari variabel **(a),(b) dan (c)**.
+
+
+![screenshot 15](https://user-images.githubusercontent.com/46512724/52548606-48a30900-2e01-11e9-8439-898a676452f0.png)
+
